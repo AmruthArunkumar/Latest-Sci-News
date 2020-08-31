@@ -1,4 +1,4 @@
-https://img.shields.io/badge/Platform-Android-royalblue
+!(https://img.shields.io/badge/Platform-Android-royalblue)
 
 # Latest-Sci-News
 
