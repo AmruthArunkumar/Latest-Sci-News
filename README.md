@@ -1,6 +1,5 @@
-# Latest-Sci-News
+# Latest-Sci-News ![platform build](https://img.shields.io/badge/Platform-Android-royalblue)
 
-![platform build](https://img.shields.io/badge/Platform-Android-royalblue)
 An android application that gets the lastest science news from www.sciencedaily.com. 
 
 ## Requirements
