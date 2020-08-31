@@ -1,3 +1,5 @@
+https://img.shields.io/badge/Platform-Android-royalblue
+
 # Latest-Sci-News
 
 An android application that gets the lastest science news from www.sciencedaily.com. 
