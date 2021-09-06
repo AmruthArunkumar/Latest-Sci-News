@@ -1,8 +1,1 @@
-build.gradle
-gradle
-feeder.iml
-gradle.properties
-gradlew
-gradlew.bat
-local.properties
-settings.gradle
+./gradle
